@@ -1,6 +1,6 @@
-👋 Hi. I'm Zach Walberg.
-I am a senior studying aerospace engineering at Iowa State University.  
-I am hoping to work in motorsports as an aerodynamicist.
+##### 👋 Hi. I'm Zach Walberg.
+  I am a senior studying aerospace engineering at Iowa State University.  
+  My goal is to work in motorsports as an aerodynamicist.
 
 ## Hobbies
 
